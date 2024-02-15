@@ -1,8 +1,8 @@
 ### Meow, I'm hanbunne aka Mae-Maew 👋
-# &nbsp;&nbsp;&nbsp;／|、   
-# （ﾟ､&nbsp;｡&nbsp;７  
-# &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;~ヽ    
-# &nbsp;&nbsp;じしf_,&nbsp;)ノ
+&nbsp;&nbsp;&nbsp;／|、   
+（ﾟ､&nbsp;｡&nbsp;７  
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;~ヽ    
+&nbsp;&nbsp;じしf_,&nbsp;)ノ
 <!--
 **hanbunne/hanbunne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
